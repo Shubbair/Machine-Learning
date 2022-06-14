@@ -1,6 +1,6 @@
 # Spaceship Titanic Competetion With Kaggle
 
-## Score : 0.79658
+## Accuracy : 80%
 
 Spaceship titanic : 
 
